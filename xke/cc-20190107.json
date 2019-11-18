@@ -1,0 +1,340 @@
+[{
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 11:05",
+  "id": "cc-4gi61ne1o6stmurfn5mpii6hrh",
+  "room": "7e - Eiffel",
+  "speakers": [{
+    "id": "ponneby",
+    "name": "Peter Onneby"
+  }],
+  "summary": "**Pitch**\n \nClojure est un langage de programmation fonctionnel compilé, multi-plateforme et destiné à la création de programmes sûrs et facilement distribuables.\nDans une série de XKEs nous allons apprendre le minimum de ce language \n et le tooling associé pour pouvoir construire une application web avec des données persistées.\n\nCe slot est dédié au ClojureScript\n \n**Niveau**\n \ndébutant\n \n**Pré-requis**\n \nJava ...\n \n**Logistique**",
+  "title": "Formal Hands-on - Practical ClojureScript",
+  "toTime": "2019-01-07 13:00",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 16:05",
+  "id": "cc-3qfvoimts84rti8d4idrevrks3",
+  "room": "7e - Eiffel",
+  "speakers": [{
+    "id": "lvol",
+    "name": "Julien Rossignol"
+  }],
+  "summary": "Venez vous frotter au monde inconnu et terrifiant des slides agiles .... d'un autre !\nMaitre de l'agilité ou du pipo, quelque soit tes compétences, l'exercice est pour toi.",
+  "title": "Contest - Agile slides improv",
+  "toTime": "2019-01-07 17:30",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 14:35",
+  "id": "cc-2pcscthgnoisglfvdh8hfj0cfp",
+  "room": "7e - Eiffel",
+  "speakers": [{
+    "id": "achotard",
+    "name": "Alexis Chotard"
+  }],
+  "summary": "**Pitch**\n \nLe CTO de Scalingo viendra nous présenter leur PaaS, les challenges derrière, etc\n\nFormat:\n\n- 20min de théorie\n- 40min de Q&amp;R en mode open space\n- 30min de Hands-On :)\n \n**Niveau**\n \nDébutant\n \n**Pré-requis**\n \nRien\n \n**Logistique**\n \n- Créneau en début d'après-midi\n- Info pour le planning : le speaker est Léo Unbekandt, CTO de Scalingo",
+  "title": "Formal + Handson - Scalingo (PaaS)",
+  "toTime": "2019-01-07 16:00",
+  "type": "Hands'On"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 14:35",
+  "id": "cc-495eh87k9e7mdhgn9j410qniga",
+  "room": "7e - Haussmann",
+  "speakers": [{
+    "id": "abeauchart",
+    "name": "Anne Beauchart"
+  }],
+  "summary": "**Pitch**\n20 novembre 2018, 5ème édition de la XebiCon. \n\nLe Palais Brongniart, 1200 personnes, une soixantaine de conférences : comment tout cela s'organise ? \nVenez découvrir les coulisses de l'organisation de la XebiCon. Nous vous dirons tout ! Du choix de la salle, de la sélection des conférences, des choix techniques en passant par la communication, l'organisation le jour J et évidemment l'après-événement : passez de l'autre coté du rideau. \n\nNous finirons pas échanger sur les axes d'amélioration, et la préparation pour 2019 !\n \n**Niveau**\n \ndébutant\n \n**Pré-requis**\nPas de pré-requis\n \n**Logistique**\nPas de salle en particulier\n slot non filmé",
+  "title": "Formal - Xebicon : behind the scenes",
+  "toTime": "2019-01-07 15:30",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 11:05",
+  "id": "cc-7htqgrtlt1hrb693ml919j330t",
+  "room": "7e - Haussmann",
+  "speakers": [{
+    "id": "sguitouni",
+    "name": "Souhaib Guitouni"
+  }],
+  "summary": "**Pitch**\nL'idée est de jouer avec Spring Boot en alternant points théorie et exercices pratiques. L'idée est d'apprendre à l'utiliser, comprendre son apport, explorer les outils autours et voir comment l'utiliser dans une architecture microservice.\n\n**Niveau**\nDébutant\n\n**Pré-requis**\nJava\n\n**Logistique**\nAucune",
+  "title": "Microservices en Spring Boot 2 : from zero to hero",
+  "toTime": "2019-01-07 13:00",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 16:35",
+  "id": "cc-77ar29io223b2qsismmftmb9sd",
+  "room": "7e - Haussmann",
+  "speakers": [{
+    "id": "asgirault",
+    "name": "Anne-Sophie Girault"
+  }, {
+    "id": "ndufosse",
+    "name": "Nelson Dufossé"
+  }],
+  "title": "Workshop - Notre force : l'entraide. Le Xebians clinic arrive !",
+  "toTime": "2019-01-07 17:30",
+  "type": "Workshop"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 16:05",
+  "id": "cc-5q33mgvalp61bslolfsvij08fl",
+  "room": "7e - Haussmann",
+  "speakers": [{
+    "id": "mpozo",
+    "name": "Olivier Ghizzo"
+  }],
+  "title": "Demo ScyllaDB: Apache Cassandra a de la concurrence",
+  "toTime": "2019-01-07 16:30",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 15:35",
+  "id": "cc-621pfj74c6lpb5fd6dpqc28u28",
+  "room": "7e - Haussmann",
+  "speakers": [{
+    "id": "akvaternik",
+    "name": "Adrien Kvaternik"
+  }],
+  "summary": "**Pitch**\n\nRetour sur 2 années de SDK robotique pour Android sur le robot Pepper, chez SoftBank Robotics Europe.\n\nVenez découvrir comment nous avons mis en place ce SDK, les problématiques que nous avons rencontrées et quels enseignements nous en avons tiré.\n\n**Niveau**\n\nDébutant\n\n**Pré-requis**\n\nAucun\n\n**Logistique**\n\nRétroprojecteur",
+  "title": "REX - Comment créer un SDK robotique pour Android ?",
+  "toTime": "2019-01-07 16:00",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 14:35",
+  "id": "cc-4qgjt0qm3fe9qkemosb442upsa",
+  "room": "7e - Monceau",
+  "speakers": [{
+    "id": "pgdejardin",
+    "name": "Paul-Guillaume Dejardin"
+  }],
+  "summary": "**Pitch**\nDisclaimer : C'est bien du Kotlin que l'on va voir !!!\n\nOn peut débattre de pleins de choses à propos de Scala, mais on ne peut pas lui enlever le fait qu'il a aidé à démontrer l'utilité de la programmation fonctionnelle pour faciliter les tests, le clean code et bien d'autre choses.\nOn pourrait positionner Kotlin à mi-chemin entre Java et Scala, avec une approche plus fonctionnel que Java, mais peut-être pas autant que Scala (absence de certains \"Data Types\" par défaut).\n\nComme dans Java et Scala, si on souhaite utiliser les types Monadiques, on passe par une librairie tierce. En java on peut utiliser Vavr, en Scala on a Cats ou ScalaZ et en Kotlin on a, entre autres, **Arrow**.\n\nJe vais donc vous présenter cette dernière au travers d'un livecoding remplit d'exemples afin d'expliquer le but mais aussi comment utiliser et tirer profit de la programmation fonctionnelle en Kotlin.\n\n**Niveau**\nintermédiaire\n\n**Pré-requis**\nConnaitre un minimum la programmation fonctionnelle ainsi que Java ou Scala ou mieux Kotlin\n\n**Logistique**",
+  "title": "Live coding - Functionnal Kotlin",
+  "toTime": "2019-01-07 15:30",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 10:05",
+  "id": "cc-1b62ar52fkosjovigmnd2iiv7e",
+  "room": "7e - Montmartre",
+  "speakers": [{
+    "id": "ldussault",
+    "name": "ldussault"
+  }],
+  "summary": "\n**Pitch**\n\nSensibilisation à la process com'.\nVenez découvrir les 6 types de personnalité de base, leurs points forts, leurs réactions sous stress...\nObjectif : Se comprendre soi-même et aligner sa communication avec les autres.\n\n**Niveau**\n\nDébutant\n\n**Pré-requis**\n\nAucun\n\n**Logistique**\n\nRétroprojecteur",
+  "title": "Formal - Présentation de la Process Comm",
+  "toTime": "2019-01-07 11:00",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 16:35",
+  "id": "cc-4abea607b9m5hi7m463cq0n9b2",
+  "room": "7e - Monceau",
+  "speakers": [{
+    "id": "cdufour",
+    "name": "Charles Dufour"
+  }, {
+    "id": "esiha",
+    "name": "Edouard Siha"
+  }],
+  "summary": "**Pitch**\n- Chérie ! Je dois t'avouer quelque chose...\n- Quoi ?\n- J'ai mis du fonctionnel dans mon Java... Juste une fois ! C'était une exception !\n- Mais pourquoi ? Ce n'est pas incompatible ?\n- Bien sûr que non ! Ne t'inquiète pas, je garde mes fonctions et j'ai toujours la classe.\n- Tant que mon héritage reste intact.\n- Rien ne changera ! Je vais tout t'expliquer, comment j'ai géré les erreurs, rendu mon code immutable etc.\n\n**Niveau**\nIntermédiaire\n\n**Pré-requis**\nAucun\n\n**Logistique**\nUn rétro",
+  "title": "Live coding : Chérie j'ai mis du fonctionnel dans mon Java",
+  "toTime": "2019-01-07 17:30",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 16:05",
+  "id": "cc-5vp2edf5hjedfqvao8qq6gjqoe",
+  "room": "7e - Monceau",
+  "speakers": [{
+    "id": "jsmadja",
+    "name": "Julien Smadja"
+  }, {
+    "id": "mpaque",
+    "name": "mpaque"
+  }],
+  "summary": "**Pitch**\n \nVous voyez le moment où Pablo débarque dans vos vies : \"Hey j'ai eu une idée, on fait un jeu pour la borne d'arcade pour la Xebicon ?\".\n\nLe slot vous expliquera comment avec quelques lignes du meilleur langage du monde (JavaScript) et quelques cables on peut réaliser le rêve de Pablo.\n\nAu programme :\n- un peu de bricolage sur PC\n- quelques infos sur ce qu'est une borne d'arcade\n- une présentation rapide de Phaser.io pour faire des jeux en 2D\n \n**Niveau**\n \ndébutant\n \n**Pré-requis**\n \nAucun\n \n**Logistique**\n \nVidéo projecteur",
+  "title": "Formal - Making of King of Logo. Comment faire un jeu d'arcade en 90 jours",
+  "toTime": "2019-01-07 16:30",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 15:35",
+  "id": "cc-4gptldqe9cvsse1as0dl9kmdlj",
+  "room": "7e - Monceau",
+  "speakers": [{
+    "id": "ysennoun",
+    "name": "Yassir Sennoun"
+  }, {
+    "id": "sbenfredj",
+    "name": "Sameh Ben Fredj"
+  }, {
+    "id": "dortega",
+    "name": "Diana Ortega"
+  }],
+  "summary": "**Pitch** :\nDans cette présentation, nous allons vous montrer comment nous avons associé IoT et cloud (AWS et Azure) au travers d'un projet de bar connecté. Nous parlerons de deep learning, de reconnaissance d'image, de edge, de protocoles, de serverless et encore plein d'autres choses.\n**Niveau** : Sans\n\n**Pré-requis** : Sans\n\n**Logistique** : Amener sa bière ou sa bouteille d'eau\n**Organisation** : Sans",
+  "title": "Formal - Présentation d'un bar connecté",
+  "toTime": "2019-01-07 16:00",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 11:05",
+  "id": "cc-2j5b319ttadgkuv0hjlsnec7vk",
+  "room": "7e - Monceau",
+  "speakers": [{
+    "id": "fzhamil",
+    "name": "fzhamil"
+  }, {
+    "id": "abrebant",
+    "name": "abrebant"
+  }],
+  "summary": "Pour ceux qui n'ont pas pu assister au tout premier slot, nous vous proposons de rejouer l'atelier sur une autre thématique.\n\n\n**Pitch** :\nAu premier atelier, nous avons braqué une banque.\nMaintenant qu'on a engrangé nos 2millions d'euros, nous avons décidé de nous convertir dans l'immobilier (qu'on va disrupter) !\n\n\n**Niveau** :\nPour tous: débutant ou aguerri on n'en a jamais assez d'une séance de créativité\n\n**Pré-requis** :\nAucun \n\n\n**Logistique** :\n- Tables, chaises\n- Un projecteur \n- Des paperboards\n- Des post-it\n- Du matériel de prototypage\n- Des templates imprimés (pour gagner du temps)\n\n\n**Organisation** : équipes par multiples de 4 ou 6 (max 8 équipes)",
+  "title": "Workshop - Découverte du Design Thinking #2",
+  "toTime": "2019-01-07 13:00",
+  "type": "Workshop"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 09:30",
+  "id": "cc-6j0okq0mnhn7i7grecm9o1cf9s",
+  "kind": "keynote",
+  "room": "7e - Monceau",
+  "speakers": [{
+    "id": "dpodyachiy",
+    "name": "Dmytro Podyachiy"
+  }, {
+    "id": "njozwiak",
+    "name": "Nicolas Jozwiak"
+  }],
+  "title": "Plénière - La revue 360 : Rex de la v1 et suite",
+  "toTime": "2019-01-07 10:00",
+  "type": "keynote"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 13:05",
+  "id": "cc-4ob28sirrcjppuah993m93ua7h",
+  "kind": "keynote",
+  "room": "7e - Monceau",
+  "speakers": [],
+  "summary": "1 salade par personnes\n1 part de quiche\n1 Part de gâteau personne \n\n+ petit déjeuner",
+  "title": "Déjeuner",
+  "toTime": "2019-01-07 14:00",
+  "type": "keynote"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 14:05",
+  "id": "cc-42fn56a8vo2k22q8q4b6nqr1fu",
+  "kind": "keynote",
+  "room": "7e - Monceau",
+  "speakers": [],
+  "title": "Newcomers",
+  "toTime": "2019-01-07 14:30",
+  "type": "keynote"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 17:35",
+  "id": "cc-4nrgh0nqsp99sc72eqsn2gesn8",
+  "room": "7e - Monceau",
+  "speakers": [{
+    "id": "gbianchi",
+    "name": "Giulia Bianchi"
+  }],
+  "summary": "Réservé aux organisteurs DataXDay.",
+  "title": "Point organisateurs DataXDay",
+  "toTime": "2019-01-07 18:30",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 17:35",
+  "id": "cc-5mj03mffdav3m5ou5qsa0kel3r",
+  "kind": "keynote",
+  "room": "7e - Monceau",
+  "speakers": [],
+  "title": "Créneau de partage et After XKE",
+  "toTime": "2019-01-07 20:00",
+  "type": "keynote"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 14:35",
+  "id": "cc-1hcshost6vsbe2ongqkuupu433",
+  "room": "7e - Montmartre",
+  "speakers": [{
+    "id": "omarquet",
+    "name": "Olivier Marquet"
+  }],
+  "title": "Workshop - Electrocardiogramme Agile",
+  "toTime": "2019-01-07 16:00",
+  "type": "Workshop"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 11:05",
+  "id": "cc-457edf99g0sd0tp8kkprrcua8a",
+  "room": "7e - Montmartre",
+  "speakers": [{
+    "id": "akuoch",
+    "name": "Alexandre Kuoch"
+  }],
+  "summary": "**Pitch**\nNous sommes tous amenés à intervenir sur une mission et surtout d'interagir avec des personnes membre de notre équipe ou l'extérieur. La communication est un élément clé de notre réussite.\nEn particulier, un management visuel efficace contribue fortement à une bonne communication.\nEtes-vous prêt à vous mesurer pour créer le meilleur management visuel ?\n\n**Niveau**\n\nN/A\n\n**Pré-requis**\n\nN/A",
+  "title": "Game - Management visuel, le plus beau board !",
+  "toTime": "2019-01-07 13:00",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 16:35",
+  "id": "cc-65sbh30f4kpou3945qag7mbk25",
+  "room": "7e - Montmartre",
+  "speakers": [{
+    "id": "agenet",
+    "name": "Alexandre Genet"
+  }],
+  "summary": "**Pitch**\nShould we follow the trend by using Jetpack with Room, LiveData and Retrofit or stay with the clean architecture by Uncle Bob?\nLet’s choose between 2 identical applications that display a downloaded and persisted list of ski resorts. One will use Presenter, Interactor following the clean architecture principles; the other will use ViewModels, LiveData and a Repository with Jetpack.\n\nWe will compare those two applications, in order to, identify the strength and weakness of the two architectures:\n\n- Code complexity: How many files? How many lines of code?\n- Code readability: How easy it is to link the text displays in the view to the field in the json downloaded or a raw in the database? What to explain to a new comer?\n- Adaptability to changes: How easy is to add an offline feature? How easy is to add an online feature?\n- Testability: How we can create unit test?\n- Margin of error: How easy is to make memory leaks? How easy is to bypass the pattern?\n \n**Niveau** \nmoyen\n \n**Pré-requis**\nSmall knowledge of Android.\n\n**Logistique**\nnéant",
+  "title": "Formal - Jetpack and clean architecture: a side by side comparison",
+  "toTime": "2019-01-07 17:30",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 16:05",
+  "id": "cc-6mdkqgneb341qjs7vunon3dfro",
+  "room": "7e - Montmartre",
+  "speakers": [{
+    "id": "mcherifi",
+    "name": "mcherifi"
+  }],
+  "summary": "**Pitch**\n \nVenez découvrir mon premier slot XKE, au cours duquel on va échanger sur les aspects plutôt flippants de l'IA, voir pourquoi les gens ont peur de cette technologie et essayer surtout de se rassurer !\n \n**Niveau**\n \nDébutant\n \n**Pré-requis**\n \nAucun\n \n**Logistique**\n \nUn vidéo-projecteur",
+  "title": "Debate - IA: Attention danger !!",
+  "toTime": "2019-01-07 16:30",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 10:05",
+  "id": "cc-0374avdebkv1h6so9ikcs6p53g",
+  "room": "7e - Monceau",
+  "speakers": [{
+    "id": "plopez",
+    "name": "Pablo Lopez"
+  }, {
+    "id": "akinsella",
+    "name": "Alexis Kinsella"
+  }, {
+    "id": "sdossantos",
+    "name": "Sergio Dos Santos"
+  }],
+  "title": "Les 12 Travaux des TO",
+  "toTime": "2019-01-07 11:00",
+  "type": "Talk"
+}, {
+  "conferenceId": "cc-20190107",
+  "fromTime": "2019-01-07 17:35",
+  "id": "cc-1t01cfvd3eingiigpmlq8cthe3",
+  "room": "7e - Montmartre",
+  "speakers": [{
+    "id": "aphelip",
+    "name": "Alban Phelip"
+  }],
+  "title": "Fondation data",
+  "toTime": "2019-01-07 18:30",
+  "type": "Talk"
+}]
