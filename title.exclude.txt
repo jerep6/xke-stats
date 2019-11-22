@@ -1,0 +1,219 @@
+devfest
+kubecon
+retreat
+revue de presse
+bonne année
+partenaire
+Breizhcamp
+ng-europe
+joker
+Scalaio
+re:Invent
+xebicon
+meetup
+Big Data Paris
+Devoxx
+NCrafts
+dotscale
+frenchkit
+Google Summer of Code
+dotJS
+Mobile Things
+Codeurs en seine
+TechTrends
+Mois d
+GDG Cloud Paris
+Dev Summit
+Hackergarten
+formation
+Android Makers
+WWDC
+Paris Container Day
+Agile en Seine
+conférence dotGo
+DockerCon
+RustFest
+DataXDay
+Myagile Partner
+XKE
+Tech4Exec
+Tech Event
+TechEvent
+Heart of Agile
+Écho des TO
+Retour sur l'agile tour Paris 2018
+Google HashCode
+Be A Better Developer
+DuNeufEn2019
+Pépite
+Kafka Summit
+NewCrafts
+hands-on
+Ne manquez pas l'atelier
+Nous avons 10 ans
+Paris JUG
+MongoDB User Group
+Software Craftsmanship Paris
+organise un atelier cassandra
+DotSwift
+hackathons
+keynote
+DevOps Day
+ScrumDay
+organise un Workshop Continuous Delivery
+Software Craftsmanship Paris
+TV 2.0
+La nuit du hack
+League of Mobile
+Glaces Artisanales
+lance sa Data Factory
+LKFR
+Vis ma Vie
+Ma vie de
+Événement Apple
+CocoaHeads
+dévoile son Manifeste
+Djerba
+DroidCon
+Scala User Group
+bdx.io
+Meilleurs voeux
+French Kanban User Group
+Ceylon tour Paris
+Lancement officiel de Thiga
+AgileEvent
+Le mini-site Agile est en ligne
+WSUG
+présente son workshop
+Great Place to Work
+FrenchTech
+Scrum Day
+Hack Cup
+ProductCamp
+PuppetCamp
+HackCup
+Innovation Forum du CRIP
+Journée DevOps
+Mixit
+Essentials sont arrivées
+HandsOn
+Agile France
+Hands'on
+Sandro Mancuso
+UIKonf
+Journée Craft
+newsletter
+NSSpain
+ParisJS
+Web TV
+Agile Tour
+atelier développement avec Couchbase
+BDX I/O
+adopteunagiliste.fr
+French Scrum User Group
+Lancement officiel de WeScale
+Lean Kanban France
+Retour sur une conférence de codeurs
+Noël
+organise un atelier
+HumanTalks
+Hadoop Summit
+une soirée Neo4j
+atelier Neo4j
+Mongo User Group
+atelier NginX
+Mix-IT
+Grails User Group
+Hadoop Summit
+Big Data Day
+Duchess
+dotSacle
+Atelier ElasticSearch
+Conférence Time 2 Marketing
+Cassandra breakfast
+ProductTank Paris
+découverte du Continuous Delivery
+Scala.io
+JCrete
+Mobile Awards
+et le sport, une grande histoire d'amour
+Lean Kanban
+Open Source Developers Conference
+Google Platform Tour
+Tunisie
+Cassandra Summit Europe
+renforce son équipe agile
+Big Data de Télécom ParisTech
+Workshop découverte de Google Compute Engine
+ProductTank
+Scrum Master Academy
+Paris DevOps
+mini-site DevOps
+accueille le
+Soirée
+vœux
+Interview
+Mongo Day Paris
+QCon
+Belgium Testing Days
+Salesforce
+Cloud Day
+MongoDB Paris
+Software Craftsmanship 2012
+Devenez un Développeur Hadoop Apache Cloudera certifié
+Atelier Big Data avec Hadoop et Flume
+Agile Analytics Applications
+Coursera
+La fin du monde
+Matinée
+joggeuses
+Comment devenir Scrum Master et Scrum Product
+loves iOS
+Publicis Sapient et les conteneurs
+Qu’est-ce qui rend les Sapients heureux
+et la Data : une longue histoire
+Happy at Work
+infra-as-Code : pourquoi et comment coder
+Que peut-on souhaiter pour 2018
+déposera ses consultants
+devenez un Scrum Master
+Publication du Manager's Guide to Continuous
+Partech Shaker
+Back Day
+Extreme Carpaccio : le challenge
+Cassandra, partez sur de bonnes bases
+Notre TOP 3 Mensuel
+A la découverte de ECMAScript 2015
+Envie de devenir expert en analyse de données
+Envie d'être formé à SAFe
+Jurgen Appelo
+Oktobergarten
+Montpellier JUG
+en route vers 2017
+Programmez!
+Zeenea
+Sacha Labourey
+Kirk Pepperdine
+Dwight Merriman
+Atelier Cloud IaaS
+Concevez une application DataGrid-NoSQL
+MongoDB en production chez Fotopedia
+MongoDB chez sfr.fr
+SHadoop User Group
+10 Juillet
+itSMF
+Pomme ou fan de Bugdroid
+Les 10 commandements
+Event Cassandra 21 Mai
+Workshop Continuous Delivery
+quizz XMA
+Les XMA, c'est parti
+Space Chatons
+Webinaire XL release
+recrute des expert
+Training
+Summit Europe
+DevOps REX
+Pourquoi des T\(echnical\) O\(fficers\)
+Qu’est-ce qui rend les Xebians heureux
+Kamarin
