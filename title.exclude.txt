@@ -1,3 +1,31 @@
+Annonce AllCraft
+Lancement de IOT-EE
+Best of Web
+PyData Paris
+sponsor de PyData
+Tech-Event
+DOTGO 2016
+Kodo Kojo
+If it needs to happen
+Multi-Tasking – Scrum Inc
+Microxchg
+The One with Polyglot Portfolio
+Le Mini Guide des Communautés de Pratique en Pratique, est disponible !
+More On Why Managers Hate Agile
+Test Managers do in Agile Organizations
+Rupture Douce Saison 3
+Getting People to Limit Their Work In Progress
+Fifty Quick Ideas To Improve Your User Stories
+Adrian Cockcroft
+Conférence de Jean-François Zobrist sur l’entreprise libérée
+Découvrez le Craftsman Daily Workflow
+Article de Presse – Dossier DevOps
+Hadoop World London 2015
+Henrik Kniberg expérimente \(et réhabilite\) SAFe
+Bordeaux JUG
+codeur du samedi
+Voxxed Days
+Legacy Buster
 devfest
 kubecon
 retreat
@@ -99,7 +127,6 @@ Essentials sont arrivées
 HandsOn
 Agile France
 Hands'on
-Sandro Mancuso
 UIKonf
 Journée Craft
 newsletter
@@ -217,3 +244,17 @@ DevOps REX
 Pourquoi des T\(echnical\) O\(fficers\)
 Qu’est-ce qui rend les Xebians heureux
 Kamarin
+Unifier le SI avec l’hybridation
+Mon organisation évolue au rythme de mon architecture
+Les Mathématiques au cœur de I’IA
+La Data dans l’ère post-Hadoop
+Un SI temps réel, centré sur les événements
+Embrasser les architectures Serverless
+Résilience, fiabilité et vélocité : le SI Cloud Native
+Décentraliser vos traitements : On-Device Computing
+L’interface utilisateur, ce n’est pas que des pixels
+Contrôler et Fiabiliser
+Des applications communicantes et ouvertes
+La Data Science, de l’idée à la production
+Roadmap 2019 – Les 12 travaux des TOs
+Xebia devient Publicis Sapient Engineering
